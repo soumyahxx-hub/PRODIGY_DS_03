@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 *.joblib
-*.png
 *.jpg
 *.jpeg
 .idea/
